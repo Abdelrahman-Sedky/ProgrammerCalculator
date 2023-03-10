@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Programmer Calculator</string>
+    <string name="decimal">Decimal</string>
+    <string name="binary">Binary</string>
+    <string name="octal">Octal</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="clear">Clear</string>
+    <string name="decimal_hint">Decimal</string>
+    <string name="binary_hint">Binary</string>
+    <string name="octal_hint">Octal</string>
+    <string name="hexadecimal_hint">Hexadecimal</string>
+</resources>
